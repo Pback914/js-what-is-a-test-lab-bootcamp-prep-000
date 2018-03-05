@@ -1,4 +1,4 @@
-..# Running Tests
+           ``+ ≈ÇΩ..# Running Tests
 
 You understand how to read tests, now it's time to run the tests. We've made it fairly easy. In the same terminal that you used to write `nodejs tests.js` or `nodejs index.js` now, you just need to write `learn`. That's it! No matter what the lab, our Learn command will figure out where you are and run the appropriate tests and give you results.
 
@@ -18,6 +18,7 @@ If we run `learn` in our terminal right now, you'll get a bunch of failed tests.
  3   -_-__|  /\_/\
  0   -_-_~|_( x .x)
      -_-_ ""  ""
+	
 
   0 passing (612ms)
   3 failing
@@ -67,7 +68,7 @@ That should be fairly obvious. You passed 0 tests and failed 3 tests. Not a grea
   + expected - actual
 
   -Joe
-  +Susan
+  +Susan3
 
   at assert (node_modules/expect/lib/assert.js:29:9)
   at Expectation.toEqual (node_modules/expect/lib/Expectation.js:81:30)
